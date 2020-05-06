@@ -30,8 +30,8 @@ Correlation: 0.9982
 
 ## Authors
  **[Edouard Touch](https://github.com/Eydou)** - **[Manoa Rabekoto](https://github.com/Twoulii)**
- 
- Follow me on [![alt text][1.1]][1]
- [![alt text][1.1]][1]
- [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
- [1]: http://www.twitter.com/carlsednaoui
+
+
+[![alt text][1.1]][1]
+[1.1]: http://i.imgur.com/tXSoThF.png
+[1]: http://www.twitter.com/carlsednaoui
