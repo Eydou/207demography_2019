@@ -29,7 +29,9 @@ Correlation: 0.9982
 | 207demography | 100% |
 
 ## Authors
-[![alt text][6.2]][6]
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[6]: http://www.github.com/carlsednaoui
  **[Edouard Touch](https://github.com/Eydou)** - **[Manoa Rabekoto](https://github.com/Twoulii)**
+ 
+ Follow me on [![alt text][1.1]][1]
+ [![alt text][1.1]][1]
+ [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+ [1]: http://www.twitter.com/carlsednaoui
