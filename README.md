@@ -31,7 +31,7 @@ Correlation: 0.9982
 ## Authors
  **[Edouard Touch](https://github.com/Eydou)** - **[Manoa Rabekoto](https://github.com/Twouli)**
 
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (Follow me !)
 
 [1]: https://github.com/Eydou
 
