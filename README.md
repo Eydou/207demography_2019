@@ -11,6 +11,7 @@ linear regression adjustement
 
     ./207demography code [...]
 ```
+./207demography FRA KHM CAN USA
 Country: Cambodia, Canada, France, United States
 Fit1
         Y = 3.40 X - 6421.16
