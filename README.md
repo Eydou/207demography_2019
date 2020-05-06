@@ -7,7 +7,7 @@ Estimate the connection between two observed serials, using linear regression ad
 
 linear regression adjustement
 
-## Test
+## Test and exemple
 
     ./207demography code [...]
 ```
