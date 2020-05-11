@@ -1,0 +1,10 @@
+Country: Bolivia, Brazil, Peru
+Fit1
+	Y = 3.06 X - 5906.34
+	Root-mean-square deviation: 2.22
+	Population in 2050: 359.35
+Fit2
+	X = 0.33 Y + 1932.53
+	Root-mean-square deviation: 2.22
+	Population in 2050: 359.70
+Correlation: 0.9991

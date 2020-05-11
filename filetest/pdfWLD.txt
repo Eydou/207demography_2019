@@ -1,0 +1,10 @@
+Country: World
+Fit1
+	Y = 80.61 X - 155113.65
+	Root-mean-square deviation: 40.42
+	Population in 2050: 10142.69
+Fit2
+	X = 0.01 Y + 1924.24
+	Root-mean-square deviation: 40.44
+	Population in 2050: 10147.14
+Correlation: 0.9996

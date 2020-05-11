@@ -1,0 +1,10 @@
+Country: Egypt, Arab Rep., Madagascar, Morocco, Tunisia
+Fit1
+	Y = 2.13 X - 4133.15
+	Root-mean-square deviation: 3.51
+	Population in 2050: 232.33
+Fit2
+	X = 0.47 Y + 1941.36
+	Root-mean-square deviation: 3.53
+	Population in 2050: 233.60
+Correlation: 0.9952

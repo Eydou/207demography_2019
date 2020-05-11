@@ -1,0 +1,10 @@
+Country: OECD members
+Fit1
+	Y = 8.76 X - 16367.32
+	Root-mean-square deviation: 5.46
+	Population in 2050: 1597.31
+Fit2
+	X = 0.11 Y + 1867.89
+	Root-mean-square deviation: 5.47
+	Population in 2050: 1598.06
+Correlation: 0.9993
