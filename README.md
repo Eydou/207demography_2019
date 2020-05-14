@@ -1,4 +1,7 @@
 # 207demography_2019
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/11407a5e8b2f4b45bead96f1b1105b83)](https://app.codacy.com/manual/Eydou/207demography_2019?utm_source=github.com&utm_medium=referral&utm_content=Eydou/207demography_2019&utm_campaign=Badge_Grade_Dashboard)
+
 ## Objective
 
 Estimate the connection between two observed serials, using linear regression adjustement.
