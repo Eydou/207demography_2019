@@ -27,9 +27,17 @@ Fit2
 Correlation: 0.9982
 ```
 
-| Project | Moulinette |
+| Feature | -- |
 | --- | --- |
-| 207demography | 100% |
+| Login(s)/logout | 100% |
+| users | 100% |
+| messages | 100% |
+| users | 100% |
+| team | 100% |
+| channel | 100% |
+| thread | 0% |
+| users | 100% |
+| security | 80% |
 
 ## Authors
  **[Edouard Touch](https://github.com/Eydou)** - **[Manoa Rabekoto](https://github.com/Twouli)**
